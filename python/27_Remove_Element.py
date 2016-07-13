@@ -15,6 +15,8 @@ Example:
 Given input array nums = [3,2,2,3], val = 3
 
 Your function should return length = 2, with the first two elements of nums being 2.
+
+解法较为简单，使用两个数组下标，一个用来遍历原数组，一个用来记录不等于val的值。
 """
 
 
