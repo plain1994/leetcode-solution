@@ -91,12 +91,6 @@ class Solution(object):
                             r -= 1
         return returnlist
 
-
-
-
-
-
-
 def main():
     newclass = Solution()
 
