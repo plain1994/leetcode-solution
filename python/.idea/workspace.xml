@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/python$88_Merge_Sorted_Array.coverage" NAME="88_Merge_Sorted_Array Coverage Results" MODIFIED="1468511051548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$119_Pascal_s_Triangle_II.coverage" NAME="119_Pascal's_Triangle_II Coverage Results" MODIFIED="1468491384533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$16_3Sum_Closest.coverage" NAME="16_3Sum_Closest Coverage Results" MODIFIED="1468677345530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$154_Find_Minimum_in_Rotated_Sorted_Array_II.coverage" NAME="154_Find_Minimum_in_Rotated_Sorted_Array_II Coverage Results" MODIFIED="1468856887249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$153_Find_Minimum_in_Rotated_Sorted_Array.coverage" NAME="153_Find_Minimum_in_Rotated_Sorted_Array Coverage Results" MODIFIED="1468740760796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$15_3Sum.coverage" NAME="15_3Sum Coverage Results" MODIFIED="1468573476163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -44,11 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="153_Find_Minimum_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="153_Find_Minimum_in_Rotated_Sorted_Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+            <state relative-caret-position="54">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="154_Find_Minimum_in_Rotated_Sorted_Array_II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/154_Find_Minimum_in_Rotated_Sorted_Array_II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -69,6 +80,7 @@
         <option value="$PROJECT_DIR$/16_3Sum_Closest.py" />
         <option value="$PROJECT_DIR$/18_4Sum.py" />
         <option value="$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py" />
+        <option value="$PROJECT_DIR$/154_Find_Minimum_in_Rotated_Sorted_Array_II.py" />
       </list>
     </option>
   </component>
@@ -129,8 +141,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,25 +154,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.153_Find_Minimum_in_Rotated_Sorted_Array">
-    <configuration default="false" name="1_Two_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_Two_Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.154_Find_Minimum_in_Rotated_Sorted_Array_II">
     <configuration default="false" name="15_3Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,6 +223,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="154_Find_Minimum_in_Rotated_Sorted_Array_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/154_Find_Minimum_in_Rotated_Sorted_Array_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -442,19 +454,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.1_Two_Sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.15_3Sum" />
-      <item index="2" class="java.lang.String" itemvalue="Python.16_3Sum_Closest" />
-      <item index="3" class="java.lang.String" itemvalue="Python.18_4Sum" />
-      <item index="4" class="java.lang.String" itemvalue="Python.153_Find_Minimum_in_Rotated_Sorted_Array" />
+      <item index="0" class="java.lang.String" itemvalue="Python.15_3Sum" />
+      <item index="1" class="java.lang.String" itemvalue="Python.16_3Sum_Closest" />
+      <item index="2" class="java.lang.String" itemvalue="Python.18_4Sum" />
+      <item index="3" class="java.lang.String" itemvalue="Python.153_Find_Minimum_in_Rotated_Sorted_Array" />
+      <item index="4" class="java.lang.String" itemvalue="Python.154_Find_Minimum_in_Rotated_Sorted_Array_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.153_Find_Minimum_in_Rotated_Sorted_Array" />
-        <item index="1" class="java.lang.String" itemvalue="Python.18_4Sum" />
-        <item index="2" class="java.lang.String" itemvalue="Python.16_3Sum_Closest" />
-        <item index="3" class="java.lang.String" itemvalue="Python.15_3Sum" />
-        <item index="4" class="java.lang.String" itemvalue="Python.1_Two_Sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.154_Find_Minimum_in_Rotated_Sorted_Array_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.153_Find_Minimum_in_Rotated_Sorted_Array" />
+        <item index="2" class="java.lang.String" itemvalue="Python.18_4Sum" />
+        <item index="3" class="java.lang.String" itemvalue="Python.16_3Sum_Closest" />
+        <item index="4" class="java.lang.String" itemvalue="Python.15_3Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -520,6 +532,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/18_4Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/18_4Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -638,8 +658,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="38" column="27" selection-start-line="38" selection-start-column="27" selection-end-line="38" selection-end-column="27" />
+        <state relative-caret-position="54">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/154_Find_Minimum_in_Rotated_Sorted_Array_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
           <folding />
         </state>
       </provider>
