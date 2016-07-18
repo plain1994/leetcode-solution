@@ -18,7 +18,7 @@ Find the minimum element.
 The array may contain duplicates.
 
 解法与153. Find Minimum in Rotated Sorted Array基本一致，加入判断是否重复
-具体的，判断m与l或r的值是否相等，如果相等，l+1或r-1
+具体的，判断l与l+1的值是否相等，如果相等，l+1；r也做相同处理
 """
 
 class Solution(object):
@@ -34,18 +34,18 @@ class Solution(object):
         if n == 2:
             return min(nums[0], nums[1])
         while l + 1 < r:
+            if nums[l] == nums[l+1]:
+                l += 1
+            if nums[r] == nums[r-1]:
+                r -= 1
             if nums[l] < nums[m] and nums[m] > nums[r]:
                 l = m
             elif nums[l] > nums[m] and nums[m] < nums[r]:
                 r = m
             elif nums[l] < nums[m] and nums[m] < nums[r]:
                 return min(nums[l], nums[m])
-            elif nums[l] == nums[m]:
-                l += 1
-            elif nums[r] == nums[m]:
-                r -= 1
             m = (l + r) / 2
-        return min(nums[r],nums[l])
+        return min(nums[r], nums[l])
 
 
 def main():
