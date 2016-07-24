@@ -15,13 +15,14 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$21_Merge_Two_Sorted_Lists.coverage" NAME="21_Merge_Two_Sorted_Lists Coverage Results" MODIFIED="1469339428247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$7_Reverse_Integer.coverage" NAME="7_Reverse_Integer Coverage Results" MODIFIED="1469369543286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$7_Reverse_Integer.coverage" NAME="7_Reverse_Integer Coverage Results" MODIFIED="1469371901377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$80_Remove_Duplicates_from_Sorted_Array_II.coverage" NAME="80_Remove_Duplicates_from_Sorted_Array_II Coverage Results" MODIFIED="1468473287959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$151_Reverse_Words_in_a_String.coverage" NAME="151_Reverse_Words_in_a_String Coverage Results" MODIFIED="1469367150972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$1_Two_Sum.coverage" NAME="1_Two_Sum Coverage Results" MODIFIED="1468551778539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$88_Merge_Sorted_Array.coverage" NAME="88_Merge_Sorted_Array Coverage Results" MODIFIED="1468511051548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$119_Pascal_s_Triangle_II.coverage" NAME="119_Pascal's_Triangle_II Coverage Results" MODIFIED="1468491384533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$84_Largest_Rectangle_in_Histogram.coverage" NAME="84_Largest_Rectangle_in_Histogram Coverage Results" MODIFIED="1469351323074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$67_Add_Binary.coverage" NAME="67_Add_Binary Coverage Results" MODIFIED="1469374763046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$153_Find_Minimum_in_Rotated_Sorted_Array.coverage" NAME="153_Find_Minimum_in_Rotated_Sorted_Array Coverage Results" MODIFIED="1468740760796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$85_Maxima_Rectangle.coverage" NAME="85_Maxima_Rectangle Coverage Results" MODIFIED="1469357257904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$15_3Sum.coverage" NAME="15_3Sum Coverage Results" MODIFIED="1468573476163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -43,18 +44,28 @@
       <file leaf-file-name="151_Reverse_Words_in_a_String.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="-11">
               <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7_Reverse_Integer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7_Reverse_Integer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7_Reverse_Integer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
+            <state relative-caret-position="18">
               <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="67_Add_Binary.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/67_Add_Binary.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -82,6 +93,7 @@
         <option value="$PROJECT_DIR$/85_Maxima_Rectangle.py" />
         <option value="$PROJECT_DIR$/151_Reverse_Words_in_a_String.py" />
         <option value="$PROJECT_DIR$/7_Reverse_Integer.py" />
+        <option value="$PROJECT_DIR$/67_Add_Binary.py" />
       </list>
     </option>
   </component>
@@ -155,7 +167,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7_Reverse_Integer">
+  <component name="RunManager" selected="Python.67_Add_Binary">
     <configuration default="false" name="84_Largest_Rectangle_in_Histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,24 +182,6 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/84_Largest_Rectangle_in_Histogram.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="21_Merge_Two_Sorted_Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21_Merge_Two_Sorted_Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -242,6 +236,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_Reverse_Integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="67_Add_Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/67_Add_Binary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -456,18 +468,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.84_Largest_Rectangle_in_Histogram" />
-      <item index="1" class="java.lang.String" itemvalue="Python.21_Merge_Two_Sorted_Lists" />
-      <item index="2" class="java.lang.String" itemvalue="Python.85_Maxima_Rectangle" />
-      <item index="3" class="java.lang.String" itemvalue="Python.151_Reverse_Words_in_a_String" />
-      <item index="4" class="java.lang.String" itemvalue="Python.7_Reverse_Integer" />
+      <item index="1" class="java.lang.String" itemvalue="Python.85_Maxima_Rectangle" />
+      <item index="2" class="java.lang.String" itemvalue="Python.151_Reverse_Words_in_a_String" />
+      <item index="3" class="java.lang.String" itemvalue="Python.7_Reverse_Integer" />
+      <item index="4" class="java.lang.String" itemvalue="Python.67_Add_Binary" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7_Reverse_Integer" />
-        <item index="1" class="java.lang.String" itemvalue="Python.151_Reverse_Words_in_a_String" />
-        <item index="2" class="java.lang.String" itemvalue="Python.85_Maxima_Rectangle" />
-        <item index="3" class="java.lang.String" itemvalue="Python.84_Largest_Rectangle_in_Histogram" />
-        <item index="4" class="java.lang.String" itemvalue="Python.21_Merge_Two_Sorted_Lists" />
+        <item index="0" class="java.lang.String" itemvalue="Python.67_Add_Binary" />
+        <item index="1" class="java.lang.String" itemvalue="Python.7_Reverse_Integer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.151_Reverse_Words_in_a_String" />
+        <item index="3" class="java.lang.String" itemvalue="Python.85_Maxima_Rectangle" />
+        <item index="4" class="java.lang.String" itemvalue="Python.84_Largest_Rectangle_in_Histogram" />
       </list>
     </recent_temporary>
   </component>
@@ -752,18 +764,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7_Reverse_Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
+        <state relative-caret-position="-11">
           <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_Reverse_Integer.py">
+    <entry file="file://$PROJECT_DIR$/67_Add_Binary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="97">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding />
         </state>
       </provider>
