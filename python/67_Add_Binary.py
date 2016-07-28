@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"7. Reverse Integer"
+"67. Add Binary"
 __author__ = 'Tom Gou'
 
 """
