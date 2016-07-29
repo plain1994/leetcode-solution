@@ -22,6 +22,10 @@ Given target = 3, return true.
 
 这道题可以直接遍历解决，一行一列，时间O(M+N)空间O(1)
 还可以加入二分查找，时间复杂度变为O(logMN)
+
+具体的，二分法这里用到的是把所有数排成一列,
+但这样的话默认所有数字都是递增的，([[1, 3, 5], [2, 4, 6]], 2)这样的不行
+也可以用两个二分查找，不过边界比较复杂。
 """
 
 class Solution(object):
@@ -55,49 +59,19 @@ class Solution(object):
     def searchMatrix2(self, matrix, target):
         rows = len(matrix)
         colomns = len(matrix[0])
-        row = 0
-        l1 = 0
-        r1 = rows - 1
-        if rows == 2:
-            if matrix[row][0] <= target:
-                row = 0
-            if matrix[row+1][0] <= target:
-                row = 1
-        while l1 + 1 < r1:
-            m1 = (l1 + r1)/2
-            if target == matrix[m1][0]:
+        start = 0
+        end = rows * colomns - 1
+        while start <= end:
+            mid = (start + end) / 2
+            i = mid / colomns
+            j = mid % colomns
+            if matrix[i][j] == target:
                 return True
-            elif target > matrix[m1][0]:
-                l1 = m1
+            elif matrix[i][j] < target:
+                start = mid + 1
             else:
-                r1 = m1
-
-        l2 = 0
-        r2 = colomns - 1
-        if colomns == 1:
-            if matrix[row][0] == target:
-                return True
-            else:
-                return False
-        if colomns == 2:
-            if matrix[row][0] == target:
-                return True
-            elif matrix[row][1] == target:
-                return True
-            else:
-                return False
-        while l2 + 1 < r2:
-            m2 = (l2 + r2)/2
-            if target == matrix[row][m2]:
-                return True
-            elif target > matrix[row][m2]:
-                l2 = m2
-            else:
-                r2 = m2
+                end = mid - 1
         return False
-
-
-
 
 def main():
     newclass = Solution()
@@ -107,6 +81,8 @@ def main():
     print  newclass.searchMatrix([[1, 1]], 2)
     print  newclass.searchMatrix([[1, 1]], 1)
     print  newclass.searchMatrix([[1], [3]], 3)
+    print  newclass.searchMatrix([[1, 3, 5]], 1)
+    print  newclass.searchMatrix([[1, 3, 5], [2, 4, 6]], 2)
 
 
 
