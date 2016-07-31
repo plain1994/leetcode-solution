@@ -17,6 +17,10 @@ return [3, 4].
 
 Subscribe to see which companies asked this question
 
+这道题不难，我的思路是首先二分查找这个数的位置。
+然后根据这个数的位置，向前向后遍历，找到l和r。
+
+当数字较少时，边界条件比较复杂，因此把n<=3的情况先处理一下。
 """
 
 class Solution(object):
@@ -76,9 +80,7 @@ class Solution(object):
                 r += 1
             else:
                 break
-        re[0] = l
-        re[1] = r
-        return re
+        return [l, r]
 
 
 
