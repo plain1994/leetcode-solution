@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/python$67_Add_Binary.coverage" NAME="67_Add_Binary Coverage Results" MODIFIED="1469374763046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$137_Single_Number_II.coverage" NAME="137_Single_Number_II Coverage Results" MODIFIED="1469714555203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$153_Find_Minimum_in_Rotated_Sorted_Array.coverage" NAME="153_Find_Minimum_in_Rotated_Sorted_Array Coverage Results" MODIFIED="1468740760796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$342_Power_of_Four.coverage" NAME="342_Power_of_Four Coverage Results" MODIFIED="1470068592482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$85_Maxima_Rectangle.coverage" NAME="85_Maxima_Rectangle Coverage Results" MODIFIED="1469357257904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$15_3Sum.coverage" NAME="15_3Sum Coverage Results" MODIFIED="1468573476163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$118_Pascal_s_Triangle.coverage" NAME="118_Pascal's_Triangle Coverage Results" MODIFIED="1468488458028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -56,18 +57,18 @@
       <file leaf-file-name="231_Power_of_Two.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/231_Power_of_Two.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="198">
+              <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="326_Power_of_Three.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/326_Power_of_Three.py">
+      <file leaf-file-name="342_Power_of_Four.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/342_Power_of_Four.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="152">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -108,6 +109,7 @@
         <option value="$PROJECT_DIR$/231_Power_of_Two.py" />
         <option value="$PROJECT_DIR$/191_Number_of_1_Bits.py" />
         <option value="$PROJECT_DIR$/326_Power_of_Three.py" />
+        <option value="$PROJECT_DIR$/342_Power_of_Four.py" />
       </list>
     </option>
   </component>
@@ -200,25 +202,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.326_Power_of_Three">
-    <configuration default="false" name="162_Find_Peak_Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/162_Find_Peak_Element.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.342_Power_of_Four">
     <configuration default="false" name="268_Missing_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,6 +271,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/326_Power_of_Three.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="342_Power_of_Four" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/342_Power_of_Four.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -500,19 +502,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.162_Find_Peak_Element" />
-      <item index="1" class="java.lang.String" itemvalue="Python.268_Missing_Number" />
-      <item index="2" class="java.lang.String" itemvalue="Python.231_Power_of_Two" />
-      <item index="3" class="java.lang.String" itemvalue="Python.191_Number_of_1_Bits" />
-      <item index="4" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
+      <item index="0" class="java.lang.String" itemvalue="Python.268_Missing_Number" />
+      <item index="1" class="java.lang.String" itemvalue="Python.231_Power_of_Two" />
+      <item index="2" class="java.lang.String" itemvalue="Python.191_Number_of_1_Bits" />
+      <item index="3" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
+      <item index="4" class="java.lang.String" itemvalue="Python.342_Power_of_Four" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
-        <item index="1" class="java.lang.String" itemvalue="Python.191_Number_of_1_Bits" />
-        <item index="2" class="java.lang.String" itemvalue="Python.231_Power_of_Two" />
-        <item index="3" class="java.lang.String" itemvalue="Python.268_Missing_Number" />
-        <item index="4" class="java.lang.String" itemvalue="Python.162_Find_Peak_Element" />
+        <item index="0" class="java.lang.String" itemvalue="Python.342_Power_of_Four" />
+        <item index="1" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
+        <item index="2" class="java.lang.String" itemvalue="Python.191_Number_of_1_Bits" />
+        <item index="3" class="java.lang.String" itemvalue="Python.231_Power_of_Two" />
+        <item index="4" class="java.lang.String" itemvalue="Python.268_Missing_Number" />
       </list>
     </recent_temporary>
   </component>
@@ -578,13 +580,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/136_Single_Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/137_Single_Number_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -922,18 +917,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/231_Power_of_Two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="33" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/326_Power_of_Three.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/231_Power_of_Two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/342_Power_of_Four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
           <folding />
         </state>
       </provider>
