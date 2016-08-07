@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/python$16_3Sum_Closest.coverage" NAME="16_3Sum_Closest Coverage Results" MODIFIED="1468677345530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$85_Maxima_Rectangle.coverage" NAME="85_Maxima_Rectangle Coverage Results" MODIFIED="1469357257904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$88_Merge_Sorted_Array.coverage" NAME="88_Merge_Sorted_Array Coverage Results" MODIFIED="1468511051548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.coverage" NAME="106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal Coverage Results" MODIFIED="1470540825643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$137_Single_Number_II.coverage" NAME="137_Single_Number_II Coverage Results" MODIFIED="1469714555203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$74_Search_a_2D_Matrix.coverage" NAME="74_Search_a_2D_Matrix Coverage Results" MODIFIED="1469846524693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$342_Power_of_Four.coverage" NAME="342_Power_of_Four Coverage Results" MODIFIED="1470068592482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -55,21 +56,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="104_Maximum_Depth_of_Binary_Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/104_Maximum_Depth_of_Binary_Tree.py">
+      <file leaf-file-name="111_Minimum_Depth_of_Binary_Tree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/111_Minimum_Depth_of_Binary_Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="111_Minimum_Depth_of_Binary_Tree.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/111_Minimum_Depth_of_Binary_Tree.py">
+      <file leaf-file-name="106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+            <state relative-caret-position="288">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -113,6 +114,7 @@
         <option value="$PROJECT_DIR$/342_Power_of_Four.py" />
         <option value="$PROJECT_DIR$/104_Maximum_Depth_of_Binary_Tree.py" />
         <option value="$PROJECT_DIR$/111_Minimum_Depth_of_Binary_Tree.py" />
+        <option value="$PROJECT_DIR$/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py" />
       </list>
     </option>
   </component>
@@ -169,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -191,6 +192,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,25 +207,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.111_Minimum_Depth_of_Binary_Tree">
-    <configuration default="false" name="191_Number_of_1_Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191_Number_of_1_Bits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal">
     <configuration default="false" name="326_Power_of_Three" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,6 +276,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111_Minimum_Depth_of_Binary_Tree.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -505,19 +507,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.191_Number_of_1_Bits" />
-      <item index="1" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
-      <item index="2" class="java.lang.String" itemvalue="Python.342_Power_of_Four" />
-      <item index="3" class="java.lang.String" itemvalue="Python.104_Maximum_Depth_of_Binary_Tree" />
-      <item index="4" class="java.lang.String" itemvalue="Python.111_Minimum_Depth_of_Binary_Tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
+      <item index="1" class="java.lang.String" itemvalue="Python.342_Power_of_Four" />
+      <item index="2" class="java.lang.String" itemvalue="Python.104_Maximum_Depth_of_Binary_Tree" />
+      <item index="3" class="java.lang.String" itemvalue="Python.111_Minimum_Depth_of_Binary_Tree" />
+      <item index="4" class="java.lang.String" itemvalue="Python.106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.111_Minimum_Depth_of_Binary_Tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.104_Maximum_Depth_of_Binary_Tree" />
-        <item index="2" class="java.lang.String" itemvalue="Python.342_Power_of_Four" />
-        <item index="3" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
-        <item index="4" class="java.lang.String" itemvalue="Python.191_Number_of_1_Bits" />
+        <item index="0" class="java.lang.String" itemvalue="Python.106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal" />
+        <item index="1" class="java.lang.String" itemvalue="Python.111_Minimum_Depth_of_Binary_Tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.104_Maximum_Depth_of_Binary_Tree" />
+        <item index="3" class="java.lang.String" itemvalue="Python.342_Power_of_Four" />
+        <item index="4" class="java.lang.String" itemvalue="Python.326_Power_of_Three" />
       </list>
     </recent_temporary>
   </component>
@@ -539,7 +541,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1375" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15927273" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -583,13 +585,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/151_Reverse_Words_in_a_String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/7_Reverse_Integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -924,13 +919,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="38" column="24" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/104_Maximum_Depth_of_Binary_Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="56">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding />
         </state>
@@ -938,8 +932,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/111_Minimum_Depth_of_Binary_Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        <state relative-caret-position="306">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
           <folding />
         </state>
       </provider>
