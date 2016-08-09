@@ -9,6 +9,7 @@ Given two binary trees, write a function to check if they are equal or not.
 
 Two binary trees are considered equal if they are structurally identical and the nodes have the same value.
 
+这道题要求判断两个树是否一样，可以用递归进行判断。
 """
 
 # Definition for a binary tree node.
