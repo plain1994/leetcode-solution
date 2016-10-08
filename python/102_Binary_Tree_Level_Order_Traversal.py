@@ -22,11 +22,15 @@ return its level order traversal as:
 ]
 
 这道题要求二叉树的层次遍历，可以通过前序遍历加记录来实现。
-没遍历一个节点，就把该节点放到对应的数组里。
+每遍历一个节点，就把该节点放到对应的数组里。
 数组个数可以提前计算二叉树深度来判断，也可以加入判断，
 在数组个数不够时加入一个新数组。
 
 解法1用到的前序遍历是递归实现的。
+
+解法2使用一个队列来实现，先进先出。
+从root开始，把当前节点放入队列，记录后出队，
+然后把当前节点的左右子节点入队，持续这个过程直到先前队列被清空。
 
 """
 
@@ -53,7 +57,31 @@ class Solution(object):
                 res.append([])
             res[level].append(root.val)
             self.preOrder(root.left, level+1, res)
+            #print "0"
+            #print level
+            #print res
             self.preOrder(root.right, level+1, res)
+            #print "1"
+            #print level
+            #print res
+
+    def levelOrder2(self, root):
+        res = []
+        if root is None:
+            return res
+        queue = [root, ]
+        while len(queue)>0:
+            size = len(queue)
+            level = []
+            for i in range(size):
+                node = queue.pop()
+                level.append(node.val)
+                if node.left is not None:
+                    queue.insert(0, node.left)
+                if node.right is not None:
+                    queue.insert(0, node.right)
+            res.append(level[:])
+        return res
 
 
 
@@ -77,7 +105,7 @@ def main():
 
 
 
-    print newclass.levelOrder1(treenode1)
+    print newclass.levelOrder2(treenode1)
 
 
 

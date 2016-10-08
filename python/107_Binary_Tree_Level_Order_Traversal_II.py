@@ -5,7 +5,8 @@
 __author__ = 'Tom Gou'
 
 """
-Given a binary tree, return the bottom-up level order traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).
+Given a binary tree, return the bottom-up level order traversal of its nodes' values.
+(ie, from left to right, level by level from leaf to root).
 
 For example:
 Given binary tree [3,9,20,null,null,15,7],
@@ -50,6 +51,28 @@ class Solution(object):
             self.preOrder(root.left, level+1, res)
             self.preOrder(root.right, level+1, res)
 
+    def levelOrderBottom(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        res = []
+        if root is None:
+            return res
+        queue = [root, ]
+        while len(queue) > 0:
+            size = len(queue)
+            level = []
+            for i in range(size):
+                node = queue.pop()
+                level.append(node.val)
+                if node.left is not None:
+                    queue.insert(0, node.left)
+                if node.right is not None:
+                    queue.insert(0, node.right)
+            res.append(level[:])
+        res.reverse()
+        return res
 
 
 
@@ -72,7 +95,7 @@ def main():
 
 
 
-    print newclass.levelOrder1(treenode1)
+    print newclass.levelOrderBottom(treenode1)
 
 
 
