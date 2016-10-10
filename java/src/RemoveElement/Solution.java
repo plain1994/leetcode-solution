@@ -1,9 +1,7 @@
 package RemoveElement;
 
 /**
- * User: Tom Gou
- * Date: 10/09/2016
- * Time: 14:25
+ * Created by tom on 10/09/16.
  *
  * Given an array and a value, remove all instances of that value in place and return the new length.
  The order of elements can be changed. It doesn't matter what you leave beyond the new length.
