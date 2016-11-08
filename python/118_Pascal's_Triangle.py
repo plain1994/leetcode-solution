@@ -37,7 +37,7 @@ class Solution(object):
             current = [1]
             for j in range(1,i):  #range(start,stop,step)不包含stop，比如range(1,1)不存在
                 current.append(A[i-1][j-1] + A[i-1][j])
-            if i>= 1:
+            if i >= 1:
                 current.append(1)
             A.append(current[:])
 
