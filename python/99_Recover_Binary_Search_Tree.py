@@ -30,7 +30,6 @@ class TreeNode(object):
         self.right = None
 
 
-import sys
 class Solution(object):
     def recoverTree(self, root):
         """
@@ -57,13 +56,6 @@ class Solution(object):
         self.last = root
 
         self.recover_helper(root.right)
-
-
-
-
-
-
-
 
 
 
