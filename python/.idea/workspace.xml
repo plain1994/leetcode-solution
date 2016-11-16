@@ -62,6 +62,7 @@
     <SUITE FILE_PATH="coverage/python$35_Search_Insert_Position.coverage" NAME="35_Search_Insert_Position Coverage Results" MODIFIED="1469967831105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.coverage" NAME="106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal Coverage Results" MODIFIED="1470540825643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$100_Same_Tree.coverage" NAME="100_Same_Tree Coverage Results" MODIFIED="1470671497937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$53_Maximum_Subarray.coverage" NAME="53_Maximum_Subarray Coverage Results" MODIFIED="1479320338012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$1_Two_Sum.coverage" NAME="1_Two_Sum Coverage Results" MODIFIED="1468551778539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$240_Search_a_2D_Matrix_II.coverage" NAME="240_Search_a_2D_Matrix_II Coverage Results" MODIFIED="1469894521742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$110_Balanced_Binary_Tree.coverage" NAME="110_Balanced_Binary_Tree Coverage Results" MODIFIED="1470755149478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -82,21 +83,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="63_Unique_Paths_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/63_Unique_Paths_II.py">
+      <file leaf-file-name="53_Maximum_Subarray.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/53_Maximum_Subarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="64_Minimum_Path_Sum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/64_Minimum_Path_Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -114,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/154_Find_Minimum_in_Rotated_Sorted_Array_II.py" />
         <option value="$PROJECT_DIR$/2_Add_Two_Numbers.py" />
         <option value="$PROJECT_DIR$/21_Merge_Two_Sorted_Lists.py" />
         <option value="$PROJECT_DIR$/84_Largest_Rectangle_in_Histogram.py" />
@@ -165,6 +155,7 @@
         <option value="$PROJECT_DIR$/62_Unique_Paths.py" />
         <option value="$PROJECT_DIR$/63_Unique_Paths_II.py" />
         <option value="$PROJECT_DIR$/64_Minimum_Path_Sum.py" />
+        <option value="$PROJECT_DIR$/53_Maximum_Subarray.py" />
       </list>
     </option>
   </component>
@@ -222,7 +213,24 @@
     <panes>
       <pane id="Scope" />
       <pane id="ProjectPane">
-        <subPane />
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -240,25 +248,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.63_Unique_Paths_II">
-    <configuration default="false" name="121_Best_Time_to_Buy_and_Sell_Stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121_Best_Time_to_Buy_and_Sell_Stock.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.53_Maximum_Subarray">
     <configuration default="false" name="122_Best_Time_to_Buy_and_Sell_Stock_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,6 +317,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/63_Unique_Paths_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="53_Maximum_Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53_Maximum_Subarray.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -540,19 +548,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.121_Best_Time_to_Buy_and_Sell_Stock" />
-      <item index="1" class="java.lang.String" itemvalue="Python.122_Best_Time_to_Buy_and_Sell_Stock_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
-      <item index="3" class="java.lang.String" itemvalue="Python.62_Unique_Paths" />
-      <item index="4" class="java.lang.String" itemvalue="Python.63_Unique_Paths_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.122_Best_Time_to_Buy_and_Sell_Stock_II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
+      <item index="2" class="java.lang.String" itemvalue="Python.62_Unique_Paths" />
+      <item index="3" class="java.lang.String" itemvalue="Python.63_Unique_Paths_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.53_Maximum_Subarray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.63_Unique_Paths_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.62_Unique_Paths" />
-        <item index="2" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
-        <item index="3" class="java.lang.String" itemvalue="Python.122_Best_Time_to_Buy_and_Sell_Stock_II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.121_Best_Time_to_Buy_and_Sell_Stock" />
+        <item index="0" class="java.lang.String" itemvalue="Python.53_Maximum_Subarray" />
+        <item index="1" class="java.lang.String" itemvalue="Python.63_Unique_Paths_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.62_Unique_Paths" />
+        <item index="3" class="java.lang.String" itemvalue="Python.123_Best_Time_to_Buy_and_Sell_Stock_III" />
+        <item index="4" class="java.lang.String" itemvalue="Python.122_Best_Time_to_Buy_and_Sell_Stock_II" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +584,7 @@
     <frame x="608" y="0" width="672" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24553572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24553572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -618,13 +626,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/137_Single_Number_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/153_Find_Minimum_in_Rotated_Sorted_Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="326">
@@ -969,6 +970,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53_Maximum_Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
           <folding />
         </state>
       </provider>
