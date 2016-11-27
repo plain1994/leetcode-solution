@@ -77,6 +77,7 @@
     <SUITE FILE_PATH="coverage/python$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121_Best_Time_to_Buy_and_Sell_Stock Coverage Results" MODIFIED="1479098325409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$66_Plus_One.coverage" NAME="66_Plus_One Coverage Results" MODIFIED="1468484211480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.coverage" NAME="105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal Coverage Results" MODIFIED="1470548417802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$95_Unique_Binary_Search_Trees_II.coverage" NAME="95_Unique_Binary_Search_Trees_II Coverage Results" MODIFIED="1480213039773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -87,21 +88,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="120_Triangle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/120_Triangle.py">
+      <file leaf-file-name="96_Unique_Binary_Search_Trees.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/96_Unique_Binary_Search_Trees.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="15" />
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="96_Unique_Binary_Search_Trees.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/96_Unique_Binary_Search_Trees.py">
+      <file leaf-file-name="95_Unique_Binary_Search_Trees_II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/95_Unique_Binary_Search_Trees_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="32" />
+            <state relative-caret-position="24">
+              <caret line="3" column="35" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="94_Binary_Tree_Inorder_Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/94_Binary_Tree_Inorder_Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-285">
+              <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -119,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/151_Reverse_Words_in_a_String.py" />
         <option value="$PROJECT_DIR$/7_Reverse_Integer.py" />
         <option value="$PROJECT_DIR$/67_Add_Binary.py" />
         <option value="$PROJECT_DIR$/136_Single_Number.py" />
@@ -170,6 +180,7 @@
         <option value="$PROJECT_DIR$/70_Climbing_Stairs.py" />
         <option value="$PROJECT_DIR$/120_Triangle.py" />
         <option value="$PROJECT_DIR$/96_Unique_Binary_Search_Trees.py" />
+        <option value="$PROJECT_DIR$/95_Unique_Binary_Search_Trees_II.py" />
       </list>
     </option>
   </component>
@@ -261,25 +272,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.96_Unique_Binary_Search_Trees">
-    <configuration default="false" name="53_Maximum_Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53_Maximum_Subarray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.95_Unique_Binary_Search_Trees_II">
     <configuration default="false" name="152_Maximum_Product_Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,6 +341,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/96_Unique_Binary_Search_Trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="95_Unique_Binary_Search_Trees_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/95_Unique_Binary_Search_Trees_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -561,19 +572,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.53_Maximum_Subarray" />
-      <item index="1" class="java.lang.String" itemvalue="Python.152_Maximum_Product_Subarray" />
-      <item index="2" class="java.lang.String" itemvalue="Python.70_Climbing_Stairs" />
-      <item index="3" class="java.lang.String" itemvalue="Python.120_Triangle" />
-      <item index="4" class="java.lang.String" itemvalue="Python.96_Unique_Binary_Search_Trees" />
+      <item index="0" class="java.lang.String" itemvalue="Python.152_Maximum_Product_Subarray" />
+      <item index="1" class="java.lang.String" itemvalue="Python.70_Climbing_Stairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.120_Triangle" />
+      <item index="3" class="java.lang.String" itemvalue="Python.96_Unique_Binary_Search_Trees" />
+      <item index="4" class="java.lang.String" itemvalue="Python.95_Unique_Binary_Search_Trees_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.96_Unique_Binary_Search_Trees" />
-        <item index="1" class="java.lang.String" itemvalue="Python.120_Triangle" />
-        <item index="2" class="java.lang.String" itemvalue="Python.70_Climbing_Stairs" />
-        <item index="3" class="java.lang.String" itemvalue="Python.152_Maximum_Product_Subarray" />
-        <item index="4" class="java.lang.String" itemvalue="Python.53_Maximum_Subarray" />
+        <item index="0" class="java.lang.String" itemvalue="Python.95_Unique_Binary_Search_Trees_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.96_Unique_Binary_Search_Trees" />
+        <item index="2" class="java.lang.String" itemvalue="Python.120_Triangle" />
+        <item index="3" class="java.lang.String" itemvalue="Python.70_Climbing_Stairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.152_Maximum_Product_Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -639,13 +650,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/162_Find_Peak_Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/136_Single_Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -804,13 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/94_Binary_Tree_Inorder_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -994,6 +991,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/94_Binary_Tree_Inorder_Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/95_Unique_Binary_Search_Trees_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="35" />
           <folding />
         </state>
       </provider>
