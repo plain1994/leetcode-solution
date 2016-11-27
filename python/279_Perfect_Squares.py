@@ -10,6 +10,11 @@ Given a positive integer n, find the least number of perfect square numbers
 
 For example, given n = 12, return 3 because 12 = 4 + 4 + 4; given n = 13,
 return 2 because 13 = 4 + 9.
+
+解法比较难想：
+用一个数组来存已有结果，首先把i＊i的全部设为1
+然后外层循环从0到n遍历，内层遍历i＋j＊j，j从0开始一直到合小于n
+将原来的dp[i+j*j]与dp[i]+1进行比较，去最小值
 """
 import sys
 class Solution(object):
