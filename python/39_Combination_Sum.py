@@ -48,9 +48,6 @@ class Solution(object):
 
 
 
-
-
-
 def main():
     newclass = Solution()
 
