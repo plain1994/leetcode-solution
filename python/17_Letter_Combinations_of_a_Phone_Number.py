@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"40. Combination Sum II"
+"17. Letter Combinations of a Phone Number"
 __author__ = 'Tom Gou'
 
 """

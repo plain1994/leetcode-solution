@@ -93,21 +93,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="40_Combination_Sum_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/40_Combination_Sum_II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="17_Letter_Combinations_of_a_Phone_Number.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/17_Letter_Combinations_of_a_Phone_Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="54">
+              <caret line="3" column="43" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -186,8 +176,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="642" />
-    <option name="width" value="638" />
+    <option name="x" value="496" />
+    <option name="width" value="784" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -584,7 +574,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="642" y="0" width="638" height="800" extended-state="0" />
+    <frame x="496" y="0" width="784" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27578124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -978,8 +968,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/17_Letter_Combinations_of_a_Phone_Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="54">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="43" />
           <folding />
         </state>
       </provider>
