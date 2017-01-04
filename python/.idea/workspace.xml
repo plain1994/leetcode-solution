@@ -52,6 +52,7 @@
     <SUITE FILE_PATH="coverage/python$151_Reverse_Words_in_a_String.coverage" NAME="151_Reverse_Words_in_a_String Coverage Results" MODIFIED="1469367150972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122_Best_Time_to_Buy_and_Sell_Stock_II Coverage Results" MODIFIED="1479099452368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$112_Path_Sum.coverage" NAME="112_Path_Sum Coverage Results" MODIFIED="1470790135720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$46_Permutations.coverage" NAME="46_Permutations Coverage Results" MODIFIED="1483570063609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$103_Binary_Tree_Zigzag_Level_Order_Traversal.coverage" NAME="103_Binary_Tree_Zigzag_Level_Order_Traversal Coverage Results" MODIFIED="1470579909989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$137_Single_Number_II.coverage" NAME="137_Single_Number_II Coverage Results" MODIFIED="1469714555203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$99_Recover_Binary_Search_Tree.coverage" NAME="99_Recover_Binary_Search_Tree Coverage Results" MODIFIED="1479073149296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -98,8 +99,8 @@
       <file leaf-file-name="90_Subsets_II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/90_Subsets_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            <state relative-caret-position="216">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -108,8 +109,8 @@
       <file leaf-file-name="46_Permutations.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/46_Permutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -253,25 +254,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.90_Subsets_II">
-    <configuration default="false" name="39_Combination_Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/39_Combination_Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.46_Permutations">
     <configuration default="false" name="40_Combination_Sum_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,6 +323,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/90_Subsets_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="46_Permutations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46_Permutations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -553,19 +554,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.39_Combination_Sum" />
-      <item index="1" class="java.lang.String" itemvalue="Python.40_Combination_Sum_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.17_Letter_Combinations_of_a_Phone_Number" />
-      <item index="3" class="java.lang.String" itemvalue="Python.78_Subsets" />
-      <item index="4" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
+      <item index="0" class="java.lang.String" itemvalue="Python.40_Combination_Sum_II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.17_Letter_Combinations_of_a_Phone_Number" />
+      <item index="2" class="java.lang.String" itemvalue="Python.78_Subsets" />
+      <item index="3" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.46_Permutations" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
-        <item index="1" class="java.lang.String" itemvalue="Python.78_Subsets" />
-        <item index="2" class="java.lang.String" itemvalue="Python.17_Letter_Combinations_of_a_Phone_Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.40_Combination_Sum_II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.39_Combination_Sum" />
+        <item index="0" class="java.lang.String" itemvalue="Python.46_Permutations" />
+        <item index="1" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.78_Subsets" />
+        <item index="3" class="java.lang.String" itemvalue="Python.17_Letter_Combinations_of_a_Phone_Number" />
+        <item index="4" class="java.lang.String" itemvalue="Python.40_Combination_Sum_II" />
       </list>
     </recent_temporary>
   </component>
@@ -595,7 +596,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26812816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26812816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -973,16 +974,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/90_Subsets_II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        <state relative-caret-position="216">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/46_Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
