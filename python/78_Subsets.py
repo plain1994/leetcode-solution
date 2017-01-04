@@ -33,7 +33,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        return self.subsets_2(nums)
+        return self.subsets_1(nums)
 
     #recursion way
     def subsets_1(self, nums):
@@ -52,14 +52,11 @@ class Solution(object):
     def subsets_2(self, nums):
         ret = [[]]
         for i in sorted(nums):
-            print "i",i
             res = []
             for ele in ret:
-                print ele
                 res.append(ele[:])
                 ele.append(i)
                 res.append(ele[:])
-            print "ret",ret
             ret = res[:]
         return ret
 
