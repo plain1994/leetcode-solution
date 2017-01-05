@@ -22,6 +22,7 @@
     <SUITE FILE_PATH="coverage/python$123_Best_Time_to_Buy_and_Sell_Stock_III.coverage" NAME="123_Best_Time_to_Buy_and_Sell_Stock_III Coverage Results" MODIFIED="1479105318765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$342_Power_of_Four.coverage" NAME="342_Power_of_Four Coverage Results" MODIFIED="1470068592482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$108_Convert_Sorted_Array_to_Binary_Search_Tree.coverage" NAME="108_Convert_Sorted_Array_to_Binary_Search_Tree Coverage Results" MODIFIED="1478801764269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$55_Jump_Game.coverage" NAME="55_Jump_Game Coverage Results" MODIFIED="1483584162870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$231_Power_of_Two.coverage" NAME="231_Power_of_Two Coverage Results" MODIFIED="1470059013395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$104_Maximum_Depth_of_Binary_Tree.coverage" NAME="104_Maximum_Depth_of_Binary_Tree Coverage Results" MODIFIED="1470492819449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$191_Number_of_1_Bits.coverage" NAME="191_Number_of_1_Bits Coverage Results" MODIFIED="1470059121343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -85,6 +86,7 @@
     <SUITE FILE_PATH="coverage/python$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121_Best_Time_to_Buy_and_Sell_Stock Coverage Results" MODIFIED="1479098325409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$66_Plus_One.coverage" NAME="66_Plus_One Coverage Results" MODIFIED="1468484211480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.coverage" NAME="105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal Coverage Results" MODIFIED="1470548417802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$47_Permutations_II.coverage" NAME="47_Permutations_II Coverage Results" MODIFIED="1483571246196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$95_Unique_Binary_Search_Trees_II.coverage" NAME="95_Unique_Binary_Search_Trees_II Coverage Results" MODIFIED="1480213039773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -96,21 +98,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="90_Subsets_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/90_Subsets_II.py">
+      <file leaf-file-name="47_Permutations_II.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/47_Permutations_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="438">
+              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="46_Permutations.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/46_Permutations.py">
+      <file leaf-file-name="55_Jump_Game.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/55_Jump_Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+            <state relative-caret-position="510">
+              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -128,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/35_Search_Insert_Position.py" />
-        <option value="$PROJECT_DIR$/162_Find_Peak_Element.py" />
         <option value="$PROJECT_DIR$/268_Missing_Number.py" />
         <option value="$PROJECT_DIR$/231_Power_of_Two.py" />
         <option value="$PROJECT_DIR$/191_Number_of_1_Bits.py" />
@@ -179,6 +179,8 @@
         <option value="$PROJECT_DIR$/78_Subsets.py" />
         <option value="$PROJECT_DIR$/90_Subsets_II.py" />
         <option value="$PROJECT_DIR$/46_Permutations.py" />
+        <option value="$PROJECT_DIR$/47_Permutations_II.py" />
+        <option value="$PROJECT_DIR$/55_Jump_Game.py" />
       </list>
     </option>
   </component>
@@ -189,9 +191,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="514" />
-    <option name="width" value="510" />
-    <option name="height" value="640" />
+    <option name="x" value="-897" />
+    <option name="width" value="897" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -247,6 +249,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -254,43 +257,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.46_Permutations">
-    <configuration default="false" name="40_Combination_Sum_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/40_Combination_Sum_II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="17_Letter_Combinations_of_a_Phone_Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17_Letter_Combinations_of_a_Phone_Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.55_Jump_Game">
     <configuration default="false" name="78_Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,6 +308,42 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/46_Permutations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="47_Permutations_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/47_Permutations_II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="55_Jump_Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55_Jump_Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -554,19 +557,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.40_Combination_Sum_II" />
-      <item index="1" class="java.lang.String" itemvalue="Python.17_Letter_Combinations_of_a_Phone_Number" />
-      <item index="2" class="java.lang.String" itemvalue="Python.78_Subsets" />
-      <item index="3" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.46_Permutations" />
+      <item index="0" class="java.lang.String" itemvalue="Python.78_Subsets" />
+      <item index="1" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
+      <item index="2" class="java.lang.String" itemvalue="Python.46_Permutations" />
+      <item index="3" class="java.lang.String" itemvalue="Python.47_Permutations_II" />
+      <item index="4" class="java.lang.String" itemvalue="Python.55_Jump_Game" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.46_Permutations" />
-        <item index="1" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.78_Subsets" />
-        <item index="3" class="java.lang.String" itemvalue="Python.17_Letter_Combinations_of_a_Phone_Number" />
-        <item index="4" class="java.lang.String" itemvalue="Python.40_Combination_Sum_II" />
+        <item index="0" class="java.lang.String" itemvalue="Python.55_Jump_Game" />
+        <item index="1" class="java.lang.String" itemvalue="Python.47_Permutations_II" />
+        <item index="2" class="java.lang.String" itemvalue="Python.46_Permutations" />
+        <item index="3" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
+        <item index="4" class="java.lang.String" itemvalue="Python.78_Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -587,7 +590,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="514" y="0" width="510" height="640" extended-state="0" />
+    <frame x="-897" y="0" width="897" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27254903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -596,7 +599,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26812816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15392062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -632,20 +635,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/102_Binary_Tree_Level_Order_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="83" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/107_Binary_Tree_Level_Order_Traversal_II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="78" column="11" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/145_Binary_Tree_Postorder_Traversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -982,8 +971,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/46_Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
+        <state relative-caret-position="-391">
           <caret line="3" column="18" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/47_Permutations_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/55_Jump_Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
           <folding />
         </state>
       </provider>
