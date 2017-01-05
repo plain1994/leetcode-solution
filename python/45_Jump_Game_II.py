@@ -35,6 +35,8 @@ class Solution(object):
         :rtype: int
         """
         n = len(nums)
+        if n == 1:
+            return 0
         step = 0
         cur = 0
         nex = 0
@@ -58,9 +60,11 @@ def main():
     newclass = Solution()
 
     nums1 = [2,3,1,1,4]
+    nums2 = [0]
 
 
     print newclass.jump(nums1)
+    print newclass.jump(nums2)
 
 if __name__ =='__main__':
     main()
