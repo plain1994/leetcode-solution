@@ -33,6 +33,7 @@
     <SUITE FILE_PATH="coverage/python$118_Pascal_s_Triangle.coverage" NAME="118_Pascal's_Triangle Coverage Results" MODIFIED="1468488458028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$114_Flatten_Binary_Tree_to_Linked_List.coverage" NAME="114_Flatten_Binary_Tree_to_Linked_List Coverage Results" MODIFIED="1479009809796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$145_Binary_Tree_Postorder_Traversal.coverage" NAME="145_Binary_Tree_Postorder_Traversal Coverage Results" MODIFIED="1473712018612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$45_Jump_Game_II.coverage" NAME="45_Jump_Game_II Coverage Results" MODIFIED="1483641493020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$39_Combination_Sum.coverage" NAME="39_Combination_Sum Coverage Results" MODIFIED="1480285976441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$98_Validate_Binary_Search_Tree.coverage" NAME="98_Validate_Binary_Search_Tree Coverage Results" MODIFIED="1479010266181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$74_Search_a_2D_Matrix.coverage" NAME="74_Search_a_2D_Matrix Coverage Results" MODIFIED="1469846524693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -98,21 +99,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="47_Permutations_II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/47_Permutations_II.py">
+      <file leaf-file-name="55_Jump_Game.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/55_Jump_Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="55_Jump_Game.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/55_Jump_Game.py">
+      <file leaf-file-name="45_Jump_Game_II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/45_Jump_Game_II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="51">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -130,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/268_Missing_Number.py" />
         <option value="$PROJECT_DIR$/231_Power_of_Two.py" />
         <option value="$PROJECT_DIR$/191_Number_of_1_Bits.py" />
         <option value="$PROJECT_DIR$/326_Power_of_Three.py" />
@@ -181,6 +181,7 @@
         <option value="$PROJECT_DIR$/46_Permutations.py" />
         <option value="$PROJECT_DIR$/47_Permutations_II.py" />
         <option value="$PROJECT_DIR$/55_Jump_Game.py" />
+        <option value="$PROJECT_DIR$/45_Jump_Game_II.py" />
       </list>
     </option>
   </component>
@@ -191,9 +192,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-897" />
-    <option name="width" value="897" />
-    <option name="height" value="1080" />
+    <option name="x" value="514" />
+    <option name="width" value="510" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -257,25 +258,7 @@
       <recent name="E:\PycharmProjects\leetcode\python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.55_Jump_Game">
-    <configuration default="false" name="78_Subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/78_Subsets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.45_Jump_Game_II">
     <configuration default="false" name="90_Subsets_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,6 +327,24 @@
       <module name="python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55_Jump_Game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="45_Jump_Game_II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/45_Jump_Game_II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -557,19 +558,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.78_Subsets" />
-      <item index="1" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
-      <item index="2" class="java.lang.String" itemvalue="Python.46_Permutations" />
-      <item index="3" class="java.lang.String" itemvalue="Python.47_Permutations_II" />
-      <item index="4" class="java.lang.String" itemvalue="Python.55_Jump_Game" />
+      <item index="0" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
+      <item index="1" class="java.lang.String" itemvalue="Python.46_Permutations" />
+      <item index="2" class="java.lang.String" itemvalue="Python.47_Permutations_II" />
+      <item index="3" class="java.lang.String" itemvalue="Python.55_Jump_Game" />
+      <item index="4" class="java.lang.String" itemvalue="Python.45_Jump_Game_II" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.55_Jump_Game" />
-        <item index="1" class="java.lang.String" itemvalue="Python.47_Permutations_II" />
-        <item index="2" class="java.lang.String" itemvalue="Python.46_Permutations" />
-        <item index="3" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
-        <item index="4" class="java.lang.String" itemvalue="Python.78_Subsets" />
+        <item index="0" class="java.lang.String" itemvalue="Python.45_Jump_Game_II" />
+        <item index="1" class="java.lang.String" itemvalue="Python.55_Jump_Game" />
+        <item index="2" class="java.lang.String" itemvalue="Python.47_Permutations_II" />
+        <item index="3" class="java.lang.String" itemvalue="Python.46_Permutations" />
+        <item index="4" class="java.lang.String" itemvalue="Python.90_Subsets_II" />
       </list>
     </recent_temporary>
   </component>
@@ -590,16 +591,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-897" y="0" width="897" height="1080" extended-state="6" />
+    <frame x="514" y="0" width="510" height="640" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27254903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27201784" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15392062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26812816" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -635,13 +636,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/145_Binary_Tree_Postorder_Traversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/27_Remove_Element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
@@ -987,8 +981,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/55_Jump_Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="44" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="102">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45_Jump_Game_II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
